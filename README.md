@@ -9,7 +9,10 @@ This project is very minimal and all you need to make it work is your own
 
 **Google Maps API Key**
 
-Please get one from here [Aquiring a key](https://developers.google.com/maps/documentation/android-api/signup)
+Please get one from here
+
+* [Aquiring a key](https://developers.google.com/maps/documentation/android-api/signup)
+
 Put your aquired key into **token.js**
 
 ````
